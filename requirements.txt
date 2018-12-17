@@ -1,0 +1,5 @@
+-e git+https://github.com/django/django.git@31408446b3880115a1f121230ce5e32e4e066a4b#egg=Django
+Pillow==5.3.0
+psycopg2==2.7.6.1
+pytz==2018.7
+sqlparse==0.2.4
